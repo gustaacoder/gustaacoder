@@ -1,16 +1,14 @@
-## Hi there 👋
+<h1>Hello! My name is Gustavo 👋</h1>
 
-<!--
-**gustaacode/gustaacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<code>System.out.println("Welcome to my github!👨‍💻")</code>
+<hr>
 
-Here are some ideas to get you started:
+<h1>About me</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>💻 Fullstack Developer</p>
+<p>📚 Studying Information Systems at <a href="https://unesc.br" target="blank_">Unesc</a></p>
+<p>🤩 Passionate about programming and always looking for new challenges</p>
+<hr>
+<h1>My Skills</h1>
+
+[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,mysql,docker,angular,typescript)](https://skillicons.dev)
