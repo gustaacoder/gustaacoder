@@ -11,4 +11,4 @@
 <hr>
 <h1>My Skills</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,aws,postgresql,nodejs,mysql,mongodb,git,docker,typescript,angular)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,aws,react,typescript,postgresql,nodejs,mysql,mongodb,git,docker)](https://skillicons.dev)
